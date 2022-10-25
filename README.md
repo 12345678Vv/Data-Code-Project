@@ -26,10 +26,8 @@
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
+- Processing 4.0.1
+- Coding is Java
 
 ## Features
 List the ready features here:
@@ -73,13 +71,11 @@ To do:
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- This project was inspired by my project requirements, cityscapes and motherboards slightly looking like a little city.
+- Many thanks to Andrew Stapleton for his help in assisting my understanding and resolving of issues in my code preventing it running.
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@12345678Vv](vanessa.radovan@student.uts.edu.au) - feel free to contact me if necessary!
 
 
