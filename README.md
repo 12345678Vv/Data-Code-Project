@@ -42,7 +42,8 @@ List the ready features here:
 
 ## Screenshots!
 Progression and Development of Coding Artwork
-[Uploading Screen Shot 2022-10-29 at 9.51.35 am.png…]()
+![Screen Shot 2022-10-29 at 10 01 46 am](https://user-images.githubusercontent.com/116043917/198748409-6017944f-90cd-4204-bf33-6eaff7693d4a.png)
+
 
 Final Artwork Screenshots
 ![project 27 10](https://user-images.githubusercontent.com/116043917/198741829-0a5d52fd-2c41-4c24-b68c-f25533ee6915.png)
