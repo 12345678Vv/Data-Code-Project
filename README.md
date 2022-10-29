@@ -2,6 +2,7 @@
 
 # Cities Never Sleeps
 An interactive moving artwork of a transformative cityscape coded via Java on Processing.
+My walk through video can be seen using this link: https://web.microsoftstream.com/video/d4d8d5cf-eb64-42b1-8921-2ab694c635d9
 
 ## Table of Contents
 * [General Info](#general-information)
